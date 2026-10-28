@@ -1,2 +1,9 @@
 GitHub
+<<<<<<< HEAD
+hello world
+=======
 welcome to the hub
+>>>>>>> feature1
+
+
+yah yahhh
